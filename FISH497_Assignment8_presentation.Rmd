@@ -2,45 +2,40 @@
 title: "Some things I learned this quarter"
 subtitle: "FISH 497"
 author: "Jenna Morris" 
-links: 
-  - label: Email
-    url: "mailto:jemorris@uw.edu" 
+date: "jemorris@uw.edu"
 output: ioslides_presentation
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 # Introduction
 
 ## About me | Personal
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+- Born & raised in Boise, Idaho
+- Curry and falafel enthusiast
+- Lover of (not small) dogs & sloths
 
 ## About me | Academic
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- B.S. Whitworth University, Spokane, WA
+- Major: Biology & Environmental Studies
 
 ## About me | Things I've missed during the pandemic
 
-# Data science
+1. In-person celebration of milestones (e.g., graduation, thesis defense, passing exams, birthdays)
+2. Spending the winter holidays with loved ones
+3. Working on campus (despite Bloedel Hall's flaws)
 
+# Data science
 
 ## Course topics | 3 things I enjoyed learning about
 
-1. something I learned
-2. something I learned
-3. something I learned
+1. The power and potential of GitHub
+2. Best practices for reproducibility (e.g., Tidy data, metadata, compendia)
+3. Considerations for accessibility, equity, communication, and ethics
 
 ## Course topics | 3 things I'd like to learn more about
 
-1. something I'd like to learn more about
-2. something I'd like to learn more about
-3. something I'd like to learn more about
+1. Data science in action - really enjoyed the guest lectures!
+2. Building infrastructure for peer code review at lab and/or department levels
+3. Developing data management plans
 
---- {image}
+## {data-background=NorsePeakFire.jpg data-background-size=cover}
